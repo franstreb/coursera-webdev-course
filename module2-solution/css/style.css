@@ -1,6 +1,47 @@
 /********** Base styles **********/
 * {
   box-sizing: border-box;
+  margin-top: 0;
+  padding: 0;
+  margin-bottom: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+}
+
+h1 {
+  text-align: center;
+}
+
+div.menu-entry {
+  border: 1px solid black;
+  background-color: grey;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+p {
+  padding: 0px 20px 0px 20px;
+}
+
+p.title {
+  float: right;
+  border: 1px solid black;
+}
+
+p.content{
+  clear: right;
+}
+
+#p1 {
+  background-color: pink;
+}
+
+#p2 {
+  background-color: red;
+}
+
+#p3 {
+  background-color: yellow;
 }
 
 /* Simple Responsive Framework. */
@@ -31,37 +72,3 @@
   }
 }
 
-h1 {
-  text-align: center;
-}
-
-div {
-    border: 1px solid green;
-    background-color: grey;
-}
-
-p {
-  background-color: grey;
-}
-
-
-p.title {
-  float: right;
-  border: 1px solid black;
-}
-
-p.content{
-  clear: both;
-}
-
-#p1 {
-  background-color: pink;
-}
-
-#p2 {
-  background-color: red;
-}
-
-#p3 {
-  background-color: yellow;
-}
