@@ -1,1 +1,0 @@
-DEvelopment made during the course HTML, CSS, and Javascript for Web Developers from the Johns-Hopkins University
