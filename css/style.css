@@ -35,15 +35,16 @@ p.content{
 }
 
 #p1 {
-  background-color: pink;
+  background-color: #D59898;
 }
 
 #p2 {
-  background-color: red;
+  background-color: #C14543;
+  color: white;
 }
 
 #p3 {
-  background-color: yellow;
+  background-color: #E5D198;
 }
 
 /* Simple Responsive Framework. */
